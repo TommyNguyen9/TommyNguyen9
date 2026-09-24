@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**TommyNguyen9/TommyNguyen9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student interested in:
 
-Here are some ideas to get you started:
+- Software Engineering
+- Backend Development
+- Cloud Engineering
+- Computer Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+- Machine learning and computer vision projects
+- Backend systems using Python
+- AWS and cloud technologies
+- Open-source contributions
+- C++ and systems programming
+
+## Technologies
+
+Python, C++, JavaScript, FastAPI, FLask, Machine Learning, Cloud, Git, Docker
+
+## Featured Projects
+
+### 🎾 Tennis Analysis Project
+
+Computer vision tennis analysis system using YOLOv8 for player and ball tracking, court detection and match statistics.
