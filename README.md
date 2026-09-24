@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Computer Science Student interested in:
+Computer Science student, developing practical experience in software engineering, backend systems and machine learning.
 
 - Software Engineering
 - Backend Development
@@ -17,7 +15,7 @@ Computer Science Student interested in:
 
 ## Technologies
 
-Python, C++, JavaScript, FastAPI, FLask, Machine Learning, Cloud, Git, Docker
+Python, C++, JavaScript, FastAPI, Flask, Machine Learning, Cloud, Git, Docker
 
 ## Featured Projects
 
